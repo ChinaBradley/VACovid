@@ -1,0 +1,4 @@
+*.csv
+.ipynb_checkpoints
+Creating\ Tables.ipynb
+.DS_Store
