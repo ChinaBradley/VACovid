@@ -4,7 +4,7 @@
 
 The COVID-19 pandemic has significantly impacted our lives in many ways. As the pandemic continues to evolve, tracking and analyzing the data related to it has become increasingly important. In an effort to contribute to this effort, I undertook a project to collect and analyze COVID-19 data from Virginia.
 
-To do this, I retrieved covid-19 data from the [Virginia Opend Data Portal](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-Cases/bre9-aqqr) which contains data on cases, hospitalizations, and deaths. I then uploaded this data to a PostgreSQL SQL database to prepare the data for analysis.
+To do this, I retrieved covid-19 data from the [Virginia Open Data Portal](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-Cases/bre9-aqqr) which contains data on cases, hospitalizations, and deaths. I then uploaded this data to a PostgreSQL SQL database to prepare the data for analysis.
 
 The ultimate goal of this project was to use the cleaned and prepared data to create a dashboard in Tableau that would allow users to visualize and explore COVID-19 trends in Virginia.
 
@@ -20,7 +20,7 @@ After exploring and analyzing the data using SQL, I created a Tableau dashboard 
 
 The final dashboard includes various visualizations, including a line chart that displays the daily new cases over time, a map that shows the geographic distribution of the cases, and a table that presents the total new cases by.
 
-Overall, the dashboard provides valuable insights into the spread of COVID-19 in Virginia. An image of the dashboard is provided below. 
+Overall, the dashboard provides valuable insights into the spread of COVID-19 in Virginia. If you would like to view my Virginia Covid-19 Dashboard, you can find it at this [Link](https://public.tableau.com/app/profile/liv1257/viz/VirginiaCovid-19Dashboard/Dashboard1). An image of the dashboard is provided below. 
 
 
 <img width="976" alt="image" src="https://user-images.githubusercontent.com/65142541/233910461-b8bc4074-3abb-4634-9d70-ec62c472914a.png">
